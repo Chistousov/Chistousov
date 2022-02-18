@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Chistousov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, world! I’m Nikita Konstantinovich Chistousov.
 
-<!---
-Chistousov/Chistousov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Full Stack Web (Angular, Spring, PostgreSQL), DevOps (Docker, Debian, Nexus, Gitlab, Gitlab CI, Harbor, Kubernetes) and bit of math.
+
+Now I work as a developer and study in graduate school.
+
+ORCID: https://orcid.org/0000-0002-0286-7391
+Scopus: https://www.scopus.com/authid/detail.uri?authorId=57210988662
+VK: https://vk.com/programmer_web
+e-mail: chistousov.nik@yandex.ru
